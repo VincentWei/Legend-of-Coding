@@ -36,7 +36,10 @@
 
 所以，加油吧，少年！
 
-PS：这部小说将在《开源操作系统百家谈》公众号（账号：discNGOS）上连载首发，欢迎关注该公众号先睹为快。
+PS：这部小说在《开源操作系统百家谈》公众号（账号：discNGOS）上连载首发，欢迎关注该公众号先睹为快。在本小说定名《码林外史》之前，已经发表了第一、二回，其链接如下：
+
+- [第一回 亮爷深夜拜良机 天赐出世为哪般](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104456&idx=1&sn=31525cb8f90bd419e42d24b3c76abf71&chksm=8b89d5e9bcfe5cfff18a5b2eceedbcdf996309e652174dc5037662d0600e811dbbdbcc32aff2&token=1872906977&lang=zh_CN#rd)
+- [第二回 白板话题揭丑闻 一鸣大胆弄潮头](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104460&idx=1&sn=d882dce958f74b212a87c1b4954ebf34&chksm=8b89d5edbcfe5cfb6f298ed86bd8cffad691426faa9a8f30f28506d76d97d052ed9444ab9d87&token=1872906977&lang=zh_CN#rd)
 
 魏永明  
 2020年6月
