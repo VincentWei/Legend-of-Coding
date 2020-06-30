@@ -1,4 +1,4 @@
-# 《码林外史》引子
+# 引子
 
 > 滚滚投资东逝水，浪花淘尽英雄。自主可控转成空，微软安卓在，几度国产红。  
 > 白发码农廿载里，惯看秋月春风。又是良机喜相逢，往来多少事，都付笑谈中。
@@ -46,6 +46,6 @@
 
 在本小说定名《码林外史》之前，已经发表了第一、二回，其链接如下：
 
-- [第一回 亮爷深夜拜良机 天赐出世为哪般](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104456&idx=1&sn=31525cb8f90bd419e42d24b3c76abf71&chksm=8b89d5e9bcfe5cfff18a5b2eceedbcdf996309e652174dc5037662d0600e811dbbdbcc32aff2&token=1872906977&lang=zh_CN#rd)
-- [第二回 白板话题揭丑闻 一鸣大胆弄潮头](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104460&idx=1&sn=d882dce958f74b212a87c1b4954ebf34&chksm=8b89d5edbcfe5cfb6f298ed86bd8cffad691426faa9a8f30f28506d76d97d052ed9444ab9d87&token=1872906977&lang=zh_CN#rd)
+- [第一回 亮爷深夜拜良机 天赐出世为哪般](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104456&idx=1&sn=31525cb8f90bd419e42d24b3c76abf71&chksm=8b89d5e9bcfe5cfff18a5b2eceedbcdf996309e652174dc5037662d0600e811dbbdbcc32aff2&token=1872906977&lang=zh_CN#rd)（原标题：知情人爆国产天赐操作系统内幕）
+- [第二回 白板话题揭丑闻 一鸣大胆弄潮头](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104460&idx=1&sn=d882dce958f74b212a87c1b4954ebf34&chksm=8b89d5edbcfe5cfb6f298ed86bd8cffad691426faa9a8f30f28506d76d97d052ed9444ab9d87&token=1872906977&lang=zh_CN#rd)（原标题：官宣：天赐操作系统首轮融资20亿元；28岁CEO王一鸣：重构基础软件）
 
