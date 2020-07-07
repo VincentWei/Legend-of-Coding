@@ -35,17 +35,19 @@
 
 需要说明的是，这部纪实小说并不全由我一人撰写，而是几名亲历这段历史的码农利用业余时间协作完成的。整个写作的过程，也是锻炼我们的协作能力的一个过程。我相信，这部小说的诞生，预示着中国基础软件行业将从抄袭和模仿的旧阶段进入到协作和创新的新阶段。
 
+另，这部小说取名《考鼎记》，一是因为和编码的英文（coding）谐音，二是因为“考”有考试、竞争之意，“鼎”有问鼎、取胜之意。
+
 该你上场了，少年。加油！
 
 魏永明  
-2020年6月
+2020年7月
 
 ---
 
 这部小说在《开源操作系统百家谈》公众号（账号：discNGOS）上连载首发，预计共五十回。欢迎关注该公众号先睹为快。欲加入创作小组，可通过公众号发私信联系小编。
 
-在本小说定名《码林外史》之前，已经发表了第一、二回，其链接如下：
+在本小说定名《考鼎记》之前，已经发表了第一、二回，其链接如下：
 
-- [第一回 亮爷深夜拜良机 天赐出世为哪般](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104456&idx=1&sn=31525cb8f90bd419e42d24b3c76abf71&chksm=8b89d5e9bcfe5cfff18a5b2eceedbcdf996309e652174dc5037662d0600e811dbbdbcc32aff2&token=1872906977&lang=zh_CN#rd)（原标题：知情人爆国产天赐操作系统内幕）
-- [第二回 白板话题揭丑闻 一鸣大胆弄潮头](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104460&idx=1&sn=d882dce958f74b212a87c1b4954ebf34&chksm=8b89d5edbcfe5cfb6f298ed86bd8cffad691426faa9a8f30f28506d76d97d052ed9444ab9d87&token=1872906977&lang=zh_CN#rd)（原标题：官宣：天赐操作系统首轮融资20亿元；28岁CEO王一鸣：重构基础软件）
+- [知情人爆国产天赐操作系统内幕](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104456&idx=1&sn=31525cb8f90bd419e42d24b3c76abf71&chksm=8b89d5e9bcfe5cfff18a5b2eceedbcdf996309e652174dc5037662d0600e811dbbdbcc32aff2&token=1872906977&lang=zh_CN#rd)（第一回 亮爷深夜拜良机 天赐出世为哪般）
+- [官宣：天赐操作系统首轮融资20亿元；28岁CEO王一鸣：重构基础软件](https://mp.weixin.qq.com/s?__biz=MzA5MTYwNTA3MA==&mid=2651104460&idx=1&sn=d882dce958f74b212a87c1b4954ebf34&chksm=8b89d5edbcfe5cfb6f298ed86bd8cffad691426faa9a8f30f28506d76d97d052ed9444ab9d87&token=1872906977&lang=zh_CN#rd)（第二回 白板话题揭丑闻 一鸣大胆弄潮头）
 
